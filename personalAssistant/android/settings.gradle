@@ -1,0 +1,3 @@
+rootProject.name = 'personalAssistant'
+
+include ':app'
